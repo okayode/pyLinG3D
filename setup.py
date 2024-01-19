@@ -9,7 +9,7 @@ with open("requirements.txt", "r", encoding="utf-8") as fh:
 
 setup(
     name="pyLinG3D",
-    version="0.3",
+    version="0.4",
     author="A. Hu, A.M.E. Ojwang, K.D. Olumoyin, and K.A. Rejniak",
     author_email="kasia.rejniak@moffitt.org, kayode.olumoyin@moffitt.org",
     description="Visualizing the Spatio-Temporal Dynamics of Clonal Evolution",
