@@ -33,7 +33,7 @@ fileStep = 2000       # frequency of data
 LinG3DClone(pathData,cloneNum,IsGradient,xmin,xmax,ymin,ymax,tmin,tmax,fileStep,toPrint).linG3DClone()
 ```
 <div style="margin:2%";>  
-    <img src="exampleB05\fig_clones\tree_clone_5.jpg"; alt="tree_clone_5"; width=50%;/>
+    <img src="https://github.com/okayode/pyLinG3D/blob/okayode/exampleB05/fig_clones/tree_clone_5.jpg?raw=true"; alt="tree_clone_5"; width=50%;/>
 </div>
 
 ### Authors
